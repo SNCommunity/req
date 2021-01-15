@@ -1,6 +1,6 @@
 # 3. Fight screen head shot
 
-### A head shot of your character for The health bar when fighting
+### A head shot of your character for the health bar when fighting
 
 ## ⚠️ Waist up shot will be cropped to 1024x1024, so download this black box, and set it as your background. Fit your shot within the bounds of the box:
 
