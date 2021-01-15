@@ -1,6 +1,6 @@
 # 1. Waist up shot
 
-### A waist up shot of your character for the Fighter Selection Screen
+### A waist up shot of your character for the fighter selection screen
 
 ## ⚠️ Waist up shot will be cropped to 512x1024, so download this black box, and set it as your background. Fit your shot within the bounds of the box:
 
