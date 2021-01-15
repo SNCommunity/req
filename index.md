@@ -9,6 +9,6 @@
 
 If you want to be in the Arcade Fighters game, you will need to put in a lot of work, as it's an actual fighting game which needs a lot.
 
-### Note also, all that is mentioned should be put into 1 Stick nodes Project (As movieclips, including Textures/icons mentioned below), so our Sprite Creators Can harvest what we need out of them.
+### Note also, all that is mentioned should be put into 1 Stick Nodes Project (As movieclips, including Textures/icons mentioned below), so our Sprite Creators Can harvest what we need out of them.
 
 We will Split Into Two Parts, [Icons/Textures](https://sncommunity.github.io/req/pages/icons-and-textures) and [Sprites](https://sncommunity.github.io/req/pages/sprites).
