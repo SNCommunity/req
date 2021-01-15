@@ -4,7 +4,7 @@
 
 ## ❗It has to be front view/facing the camera
 
-## ⚠️ Head shot will be cropped to 1024x1024, so download this black box, and set it as your background. Fit your shot within the bounds of the box:
+## ⚠️ Selection screen head shot will be cropped to 1024x1024, so download this black box, and set it as your background. Fit your shot within the bounds of the box:
 
 ![1024 x 1024 black box](https://sncommunity.github.io/req/assets/images/1024x1024.jpg)
 
