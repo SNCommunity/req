@@ -1,4 +1,4 @@
-# 2. Head shot
+# 2. Selection screen head shot
 
 ### A Headshot of your Fighter For the character Selection Screen
 
