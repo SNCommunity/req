@@ -16,9 +16,11 @@
 
 ## Other icon & textures requirements
 
-&nbsp;&nbsp;&nbsp;&nbsp;2\. [A Headshot of your Fighter For the character Selection Screen](./head-shot-selection-screen)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;3\. [A head shot of your Fighters For The health bar when Fighting](./head-shot-fight-screen)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;4\. [A the weapon your oc uses for the Specials Gauge](./specials-gauge-weapon)<br/>
+<ol start="2">
+<li><a href="./head-shot-selection-screen">A head shot of your character for the character selection screen</a></li>
+<li><a href="./head-shot-fight-screen">A head shot of your character for the health bar when fighting</a></li>
+<li><a href="./specials-gauge-weapon">A shot of a weapon your oc uses for the Specials Gauge</a></li>
+</ol>
 
 - [Icons & Textures](./icons-and-textures)
 - [Home](../)
