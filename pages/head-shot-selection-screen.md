@@ -16,10 +16,10 @@
 
 ---
 <ol start = "1">
-<li><a href="./waist-up-shot">A waist up shot of your character for the Fighter Selection Screen</a></li>
+<li><a href="./waist-up-shot">A waist up shot of your character for the fighter selection screen</a></li>
 </ol>
 <ol start = "3">
- <li><a href="./head-shot-fight-screen">A head shot of your character For The health bar when Fighting</a></li>
+ <li><a href="./head-shot-fight-screen">A head shot of your character for The health bar when fighting</a></li>
 </ol>
 <ol start = "4">
  <li><a href="./specials-gauge-weapon">A shot of a weapon your character uses for the Specials Gauge</a></li>
