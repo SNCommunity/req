@@ -1,6 +1,6 @@
 # 4. Specials Gauge weapon shot
 
-### A shot a weapon your oc uses for the Specials Gauge
+### A shot of a weapon your character uses for the Specials Gauge
 
 ## ⚠️ Specials Gauge weapon shot will be cropped to 1024x1024, so download this black box, and set it as your background. Fit your shot within the bounds of the box:
 
