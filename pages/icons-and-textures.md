@@ -7,4 +7,4 @@
 3. [A head shot of your Fighters For The health bar when Fighting](./head-shot-fight-screen)
 4. [A the weapon your oc uses for the Specials Gauge](./specials-gauge-weapon)
 
-[Home](../)
+- [Home](../)
