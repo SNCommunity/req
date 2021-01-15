@@ -14,7 +14,7 @@
 
 ## Other icon & textures requirements
 
-2. [A Headshot of your Fighter For the Charecter Selection Screen](./head-shot-selection-screen)
+2. [A Headshot of your Fighter For the character Selection Screen](./head-shot-selection-screen)
 3. [A head shot of your Fighters For The health bar when Fighting](./head-shot-fight-screen)
 4. [A the weapon your oc uses for the Specials Gauge](./specials-gauge-weapon)
 
