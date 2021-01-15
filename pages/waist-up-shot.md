@@ -6,7 +6,7 @@
 
 ---
 
-## Example (The text is not part of the example)
+## Example (The text is not part of the example):
 
 ![example image of Mzati waist up shot](https://sncommunity.github.io/req/assets/images/waist-up.png)
 
