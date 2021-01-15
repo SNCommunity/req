@@ -14,6 +14,13 @@
 
 ---
 
+## For reference
+The Specials Gauge weapon shot will be in replacement of the exclamation mark:
+
+![Reference image of Specials Gauge, showing where the Specials Gauge weapon shot will be located](https://sncommunity.github.io/req/assets/images/gauge.png)
+
+---
+
 ## Other icon & textures requirements
 
 <ol>
