@@ -15,10 +15,15 @@
 ![example image of Mzati waist up shot](https://sncommunity.github.io/req/assets/images/head.png)
 
 ---
-
- &nbsp;&nbsp;&nbsp;&nbsp;1\. [A waist Up shot of your character for the Fighter Selection Screen](./waist-up-shot)<br/>
- &nbsp;&nbsp;&nbsp;&nbsp;3\. [A head shot of your Fighters For The health bar when Fighting](./head-shot-fight-screen)<br/>
- &nbsp;&nbsp;&nbsp;&nbsp;4\. [A the weapon your oc uses for the Specials Gauge](./specials-gauge-weapon)<br/>
+<ol start = "1">
+<li><a href="./waist-up-shot">A waist up shot of your character for the Fighter Selection Screen</a></li>
+</ol>
+<ol start = "3">
+ <li value = “20”><a href="./head-shot-fight-screen">A head shot of your character For The health bar when Fighting</a></li>
+</ol>
+<ol start = "4">
+ <li><a href="./specials-gauge-weapon">A shot of a weapon your character uses for the Specials Gauge</a></li>
+</ol>
 
 - [Icons & Textures](./icons-and-textures)
 - [Home](../)
