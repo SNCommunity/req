@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SNCommunity/req/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Game Requirements
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Please Note: if any major Change to the game happens and you are not available to change them, your character will be removed from the Arcade Fighters game as they will be outdated
 
-### Markdown
+All Subject to change
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Intro
 
-```markdown
-Syntax highlighted code block
+If you want to be in the Arcade Fighters game, you will need to put in a lot of work, as it's an actual fighting game which needs a lot.
 
-# Header 1
-## Header 2
-### Header 3
+We will Split Into Two Parts, [Icons/Textures](https://sncommunity.github.io/req/pages/icons-and-textures) and [Sprites](https://sncommunity.github.io/req/pages/sprites).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SNCommunity/req/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### And also, all that is mentioned should be put into 1 Stick nodes Project (As movieclips, including Textures/icons mentioned below), so our Sprite Creators Can harvest what we need out of them.
