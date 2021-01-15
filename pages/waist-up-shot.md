@@ -1,4 +1,4 @@
-# Waist up shot
+# 1. Waist up shot
 
 ## ⚠️ Download this black box, and set it as your background. Fit your shot within the bounds of the box:
 
