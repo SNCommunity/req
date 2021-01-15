@@ -2,7 +2,7 @@
 
 ### A head shot of your character for the health bar when fighting
 
-## ⚠️ Waist up shot will be cropped to 1024x1024, so download this black box, and set it as your background. Fit your shot within the bounds of the box:
+## ⚠️ Fight screen head shot will be cropped to 1024x1024, so download this black box, and set it as your background. Fit your shot within the bounds of the box:
 
 ![1024 x 1024 black box](https://sncommunity.github.io/req/assets/images/1024x1024.jpg)
 
