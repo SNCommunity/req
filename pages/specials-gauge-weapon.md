@@ -16,10 +16,10 @@
 
 ## Other icon & textures requirements
 
-<ol start = "1">
-<li>1</li>
+<ol>
 <li><a href="./waist-up-shot">Selection screen waist up shot</a></li>
 <li><a href="./head-shot-selection-screen">Selection screen head shot</a></li>
+<li><a href="./head-shot-fight-screen">Fight screen head shot</a></li>
 </ol>
 
 - [Icons & Textures](./icons-and-textures)
