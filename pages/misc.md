@@ -1,7 +1,7 @@
 ---
 title: Misc animations
 ---
-## ⚠️ Any clickable hyperlinks have additional important information
+<!-- ## ⚠️ Any clickable hyperlinks have additional important information -->
 
 # Required misc animations
 
