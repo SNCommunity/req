@@ -11,7 +11,7 @@
   <li>Dashes (forward & backward)</li>
   <li>Intro</li>
   <li>Outro/victory</li>
-  <li><a href=".general/defeat">Defeat (you can be creative, like Injustice's defeat animations)</a></li>
+  <li><a href="./general/defeat">Defeat (you can be creative, like Injustice's defeat animations)</a></li>
 </ol>
 
 ---
