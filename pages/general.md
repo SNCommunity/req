@@ -16,5 +16,5 @@
 
 ---
 
-[Back](./sprites)
-[Home](../)
+- [Back](./sprites)
+- [Home](../)
