@@ -18,5 +18,5 @@ But bigger and more spacious
 
 ---
 
-- [Back](../supers)
+- [Back](../specials)
 - [Home](../../)
