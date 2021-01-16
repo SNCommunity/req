@@ -1,7 +1,9 @@
-
-# Getting hit animations
-
+---
+title: Getting hit animations
+---
 ## ⚠️ Any clickable hyperlinks have additional important information
+
+# Required getting hit animations
 
 <ol>
   <li>(Standing) High</li> <!-- <a href="./getting-hit/standing-high"> </a> -->
