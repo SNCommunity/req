@@ -1,7 +1,7 @@
 
 # Game Requirements
 
-### Please Note: if any major Change to the game happens and you are not available to change them, your character will be removed from the Arcade Fighters game as they will be outdated
+### Please Note: if any major change to the game happens and you are not available to change them, your character will be removed from the Arcade Fighters game as they will be outdated
 
 *All Subject to change
 
