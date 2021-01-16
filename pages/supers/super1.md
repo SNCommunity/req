@@ -8,7 +8,7 @@ title: Super 1
 
 ## Reference material
 
-![Gif of example super 1](https://sncommunity.github.com/req/assets/images/comboish.gif)
+![example gif of super 1](https://sncommunity.github.io/req/assets/images/comboish.gif)
 
 ---
 
