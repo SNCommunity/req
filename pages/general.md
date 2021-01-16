@@ -1,3 +1,6 @@
+---
+title: General animations
+---
 ## ⚠️ Any clickable hyperlinks have additional important information
 
 # Required general animations
