@@ -2,7 +2,7 @@
 title: Inactivity idle animation
 ---
 
-# Inactivity idle animation
+# Inactivity idle animation (more than 1 is optional)
 
 ## ❗ Both the first and last frame of the animation should be the same as the first frame of the idle animation
 
