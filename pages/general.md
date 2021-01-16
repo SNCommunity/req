@@ -1,6 +1,6 @@
-# General animations
-
 ## ⚠️ Any clickable hyperlinks have additional important information
+
+# Required general animations
 
 <ol>
   <li>Idle</li> <!-- <a href="./general/idle"> </a> -->
