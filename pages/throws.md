@@ -14,6 +14,9 @@ title: Throw animations
   <li>Forward throw (miss)</li> <!-- <a href="./throws/throw-fwd-miss"> </a> -->
 </ol>
 
+# Note
+![Screenshot of Mzati explaining throw misses](https://sncommunity.github.io/req/assets/images/throw-miss-explain.png)
+
 # Reference material
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/UXNzHA2fDTI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
