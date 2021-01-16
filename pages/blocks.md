@@ -1,6 +1,9 @@
-# Block animations
-
+---
+title: Block animations
+---
 ## ⚠️ Any clickable hyperlinks have additional important information
+
+# Required block animations
 
 ### All "hit"s here are blocking the hit
 
