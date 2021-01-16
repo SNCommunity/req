@@ -12,5 +12,5 @@ You can be creative, like the reference Injustice defeat animations embeded belo
 
 ---
 
-- [Back](../supers)
+- [Back](../general)
 - [Home](../../)
