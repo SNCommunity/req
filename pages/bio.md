@@ -30,7 +30,7 @@ Bio: [Your character's biography]
 
 Any other special ability's or specifications here (this is optional)
 ```
-
+Submit in #game-fighter-submission
 
 ---
 
