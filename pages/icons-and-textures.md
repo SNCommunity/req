@@ -1,4 +1,4 @@
-# Icons & Textures
+# Arcade Fighters Icons & Textures Requirements
 
 ## For icons and textures, you will need to make:
 
