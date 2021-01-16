@@ -22,5 +22,7 @@
 <li><a href="./specials-gauge-weapon">Specials Gauge weapon shot</a></li>
 </ol>
 
+---
+
 - [Icons & Textures](./icons-and-textures)
 - [Home](../)
