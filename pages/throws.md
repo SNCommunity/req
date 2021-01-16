@@ -5,6 +5,8 @@ title: Throw animations
 
 # Required throw animations
 
+### When making throws, note that other fighters will only have these requirements, so don't expect people to have a kneeling animation
+
 <ol>
   <li>Backward throw</li> <!-- <a href="./throws/throw-bwd"> </a> -->
   <li>Backward throw (miss)</li> <!-- <a href="./throws/throw-bwd-miss"> </a> -->
