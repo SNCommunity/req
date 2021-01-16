@@ -14,7 +14,7 @@ But bigger and more spacious
 ![example of what Arcade Fighters is NOT; screenshot of Super Smash Bros](https://sncommunity.github.io/req/assets/images/not-this.png) 
 
 ### Good example of a special (down special is on the right):
-![example of good up and down specials](https://sncommunity.github.io/req/assets/images/good-specials.png)  
+![example of good up and down specials](https://sncommunity.github.io/req/assets/images/good-specials.gif)  
 Down special casts a sphere that, if caught in it, stops time.
 
 ---
