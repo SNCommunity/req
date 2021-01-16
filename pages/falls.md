@@ -1,9 +1,9 @@
 ---
-title: Falling animations
+title: Fall animations
 ---
 <!-- ## ⚠️ Any clickable hyperlinks have additional important information -->
 
-# Required falling animations
+# Required fall animations
 
 <ol>
   <li>Knocked off of feet (into air fall loop)</li> <!-- <a href="./falls/knocked-off-feet"> </a> -->
