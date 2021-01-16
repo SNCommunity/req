@@ -1,6 +1,9 @@
-# Misc animations
-
+---
+title: Misc animations
+---
 ## ⚠️ Any clickable hyperlinks have additional important information
+
+# Misc animations
 
 <ol>
   <li>Death (Basically falling and ~~fucking dying~~ staying down)</li> <!-- <a href="./misc/death"> </a> -->
