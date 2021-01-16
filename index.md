@@ -12,3 +12,8 @@ If you want to be in the Arcade Fighters game, you will need to put in a lot of 
 ### Note also, all that is mentioned should be put into 1 Stick Nodes project (as movieclips, including textures/icons mentioned below), so our sprite creators can harvest what we need out of them.
 
 We will split into two parts, [Icons/Textures](https://sncommunity.github.io/req/pages/icons-and-textures) and [Sprites](https://sncommunity.github.io/req/pages/sprites).
+
+---
+
+### Other required things
+- [Character Bio](https://sncommunity.github.io/req/pages/bio)
