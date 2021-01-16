@@ -29,4 +29,6 @@ Examples of acceptable additional moves:
 ### Other required things
 - [Character Bio](./bio)
 
+---
+
 - [Home](../)
