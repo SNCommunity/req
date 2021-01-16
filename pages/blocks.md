@@ -5,7 +5,7 @@ title: Block animations
 
 # Required block animations
 
-### All "hit"s here are blocking the hit
+### All "hit"s here mean blocking the hit
 
 <ol>
   <li>Crouch idle to crouch block</li> <!-- <a href="./blocks/standing-high"> </a> -->
