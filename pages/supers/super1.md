@@ -9,7 +9,7 @@ title: Super 1
 ## Reference material
 
 ![example gif of super 1](https://sncommunity.github.io/req/assets/images/comboish.gif)  
-{% Video spacetestSMALL_512kb.mp4 500 400 %}
+{% Video hadoken.mp4 500 400 %}
 
 ---
 
