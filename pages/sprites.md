@@ -26,9 +26,6 @@ Examples of acceptable additional moves:
 9. [Falls](./falls)
 10. [Supers](./supers)
 
-### Other required things
-- [Character Bio](./bio)
-
 ---
 
 - [Home](../)
