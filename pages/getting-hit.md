@@ -1,7 +1,7 @@
 ---
 title: Getting hit animations
 ---
-## ⚠️ Any clickable hyperlinks have additional important information
+<!-- ## ⚠️ Any clickable hyperlinks have additional important information -->
 
 # Required getting hit animations
 
