@@ -13,5 +13,5 @@ Them stretching and playing with their weapons is their inactivity idle
 
 ---
 
-- [Back](../supers)
+- [Back](../general)
 - [Home](../../)
