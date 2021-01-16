@@ -16,7 +16,8 @@ title: Throw animations
 
 # Reference material
 
-YouTube video: "Mortal Kombat 11 - All throws" (click thumbnail to watch in YouTube)
+YouTube video: "Mortal Kombat 11 - All throws" (click thumbnail to watch in YouTube)  
+https://www.youtube.com/watch?v=UXNzHA2fDTI  
 [![Thumbnail of YouTube video "Mortal Kombat 11 - All throws"](https://img.youtube.com/vi/UXNzHA2fDTI/0.jpg)](https://www.youtube.com/watch?v=UXNzHA2fDTI)
 
 ---
