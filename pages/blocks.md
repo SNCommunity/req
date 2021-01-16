@@ -1,7 +1,7 @@
 ---
 title: Block animations
 ---
-## ⚠️ Any clickable hyperlinks have additional important information
+<!-- ## ⚠️ Any clickable hyperlinks have additional important information -->
 
 # Required block animations
 
