@@ -10,7 +10,11 @@
 
 - Bio
 
-## Your entry should look like:
+## You can make a custom bio background. If you don't, we will make one for you.
+![example of bio background](https://sncommunity.github.io/req/assets/images/ralph-bio.png)  
+We will make something similar to this if you don't make a custom background
+
+## Your final entry should look like:
 
 ```
 [.stknds File] (Needs to contain all required icons/textures & animations)
