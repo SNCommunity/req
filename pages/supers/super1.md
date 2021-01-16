@@ -9,7 +9,7 @@ title: Super 1
 ## Reference material
 
 ![example gif of super 1](https://sncommunity.github.io/req/assets/images/comboish.gif)  
-{% Video hadoken.mp4 500 400 %}
+<iframe width="480" height="270" src="https://sncommunity.github.io/req/assets/videos/hadoken.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
