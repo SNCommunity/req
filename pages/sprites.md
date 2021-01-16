@@ -10,7 +10,7 @@ Examples of acceptable additional moves:
 - etc.
 
 ### NOTE
-- Specials and Normals will be based on directional input e.g Up Special, Downward Special, Forward Special, Neutral Special, (see Brawlhalla or super smashbros' specials)
+- Specials and Normals will be based on directional input e.g Upward Special, Downward Special, Forward Special, Neutral Special, (see Brawlhalla or super smashbros' specials)
 - No flashing red, post FX will be added in-game
 - 4 buttons. Light, medium, heavy, and special. I normally don’t prefer button specials, but button specials are more beginner friendly for people who have difficulty with motion inputs
 
