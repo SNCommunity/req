@@ -11,4 +11,4 @@ title: Super 1
 ---
 
 - [Back](../supers)
-- [Home](../)
+- [Home](../../)
