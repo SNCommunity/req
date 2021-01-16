@@ -16,4 +16,5 @@
 
 ---
 
+[Back](./sprites)
 [Home](../)
