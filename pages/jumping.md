@@ -12,8 +12,6 @@ title: Jumping animations
   <li>Jumping backwards</li> <!-- <a href="./blocks/jump-bwd"> </a> -->
 </ol>
 
-Test: {{ site.time }}
-
 ---
 
 - [Back](./sprites)
