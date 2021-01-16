@@ -7,4 +7,6 @@
 3. [Fight screen head shot](./head-shot-fight-screen)
 4. [Specials Gauge weapon shot](./specials-gauge-weapon)
 
+---
+
 - [Home](../)
