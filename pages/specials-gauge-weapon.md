@@ -29,5 +29,7 @@ The Specials Gauge weapon shot will be in replacement of the exclamation mark:
 <li><a href="./head-shot-fight-screen">Fight screen head shot</a></li>
 </ol>
 
+---
+
 - [Icons & Textures](./icons-and-textures)
 - [Home](../)
